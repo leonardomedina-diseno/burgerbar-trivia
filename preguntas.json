@@ -1,0 +1,107 @@
+[
+  {
+    "question": "¿En qué año nació Burger Bar?",
+    "options": ["2005", "2007", "2010", "2014"],
+    "correct": 1,
+    "hint": "Piensa en un año de finales de la década de los 2000",
+    "explanation": "Burger Bar nació en el año 2007 como un Bar Universitario concentrado en producir las mejores hamburguesas de Concepción."
+  },
+  {
+    "question": "¿En qué año Burger Bar abrió su segundo local en San Pedro de la Paz?",
+    "options": ["2010", "2012", "2014", "2016"],
+    "correct": 2,
+    "hint": "Fue 7 años después de que naciera Burger Bar",
+    "explanation": "En 2014, Burger Bar abrió su segundo local en San Pedro de la Paz, posicionándose como un lugar familiar."
+  },
+  {
+    "question": "¿Cuál es la especialidad principal de Burger Bar?",
+    "options": ["Pizzas artesanales", "Hamburguesas", "Burritos mexicanos", "Ensaladas gourmet"],
+    "correct": 1,
+    "hint": "El nombre del local te da una gran pista",
+    "explanation": "Las hamburguesas son la especialidad principal de Burger Bar, siendo reconocidas como las mejores de Concepción."
+  },
+  {
+    "question": "¿Cuántas sucursales tiene Burger Bar en el Gran Concepción?",
+    "options": ["1", "2", "3", "4"],
+    "correct": 1,
+    "hint": "Una en San Pedro y una en Diagonal",
+    "explanation": "Burger Bar tiene 2 sucursales: San Pedro de la Paz (Los Canelos 100) y Diagonal Pedro Aguirre Cerda en Concepción."
+  },
+  {
+    "question": "¿Qué bebida destaca por su gran variedad en Burger Bar?",
+    "options": ["Jugos naturales", "Cocteles", "Schop", "Vinos"],
+    "correct": 2,
+    "hint": "Es una bebida fría perfecta para acompañar hamburguesas",
+    "explanation": "Burger Bar se posiciona con la mayor variedad de Schop de la zona del Gran Concepción."
+  },
+  {
+    "question": "¿Cómo se llama la cerveza artesanal de la casa?",
+    "options": ["Celtic", "Shamrock", "Dublin", "Guinness"],
+    "correct": 1,
+    "hint": "Tiene origen irlandés, como un trébol de la suerte",
+    "explanation": "Shamrock es la cerveza artesanal de la casa de Burger Bar, perfecta para acompañar tus hamburguesas."
+  },
+  {
+    "question": "¿Qué días hay stand-up comedy en los locales de Burger Bar?",
+    "options": ["Lunes y jueves", "Martes y miércoles", "Viernes y sábado", "Sábado y domingo"],
+    "correct": 1,
+    "hint": "Son dos días consecutivos a mitad de semana",
+    "explanation": "Los martes y miércoles puedes disfrutar de stand-up comedy en vivo en los locales de Burger Bar."
+  },
+  {
+    "question": "¿Qué otro producto del menú destaca además de las hamburguesas?",
+    "options": ["Sushi", "Pizzas", "Tacos", "Pastas"],
+    "correct": 1,
+    "hint": "Es redonda, artesanal y muy popular",
+    "explanation": "Además de hamburguesas, Burger Bar ofrece deliciosas pizzas de elaboración artesanal con un toque único."
+  },
+  {
+    "question": "¿En qué local de Burger Bar hay música en vivo y karaoke?",
+    "options": ["San Pedro", "Diagonal", "Ambos locales", "Ninguno"],
+    "correct": 1,
+    "hint": "Es el local con ambiente más rockero",
+    "explanation": "El local de Diagonal Pedro Aguirre Cerda es conocido por su ambiente rockero con música en vivo y karaoke."
+  },
+  {
+    "question": "¿Qué deporte es el más visto en Burger Bar?",
+    "options": ["Básquetbol", "Fútbol", "Rugby", "Tenis"],
+    "correct": 1,
+    "hint": "Es el deporte más popular en Chile",
+    "explanation": "El fútbol es el más visto en Burger Bar, aunque también hay tenis, básquetbol, rugby, UFC y más."
+  },
+  {
+    "question": "¿En qué ciudad nació Burger Bar?",
+    "options": ["Santiago", "Concepción", "Valparaíso", "Temuco"],
+    "correct": 1,
+    "hint": "Es la capital de la región del Biobío",
+    "explanation": "Burger Bar nació en Concepción, posicionándose como el mejor bar universitario de la ciudad."
+  },
+  {
+    "question": "¿Qué tipo de cerveza es Shamrock?",
+    "options": ["Importada", "Industrial", "Artesanal", "Sin alcohol"],
+    "correct": 2,
+    "hint": "Es elaborada especialmente para Burger Bar",
+    "explanation": "Shamrock es una cerveza artesanal creada exclusivamente para Burger Bar."
+  },
+  {
+    "question": "¿Qué evento de entretenimiento en vivo ocurre en Burger Bar a mitad de semana?",
+    "options": ["Karaoke", "Stand-up comedy", "Música en vivo", "Quiz night"],
+    "correct": 1,
+    "hint": "Es un show de humor con comediantes",
+    "explanation": "Los martes y miércoles Burger Bar presenta stand-up comedy en vivo en sus locales."
+  },
+  {
+    "question": "¿En qué dirección está el local de San Pedro de la Paz?",
+    "options": ["Rengo 451", "Los Canelos 100", "Diagonal PAC 1242", "Freire 890"],
+    "correct": 1,
+    "hint": "Es una calle arbolada del sector",
+    "explanation": "El local de San Pedro de la Paz está en Los Canelos 100."
+  },
+  {
+    "question": "¿Qué tipo de origen tiene el nombre 'Shamrock'?",
+    "options": ["Alemán", "Belga", "Irlandés", "Escocés"],
+    "correct": 2,
+    "hint": "El trébol es el símbolo de ese país",
+    "explanation": "Shamrock es una palabra irlandesa que significa trébol, símbolo de la cultura irlandesa."
+  }
+]
