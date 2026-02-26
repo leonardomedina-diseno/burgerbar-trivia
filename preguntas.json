@@ -86,7 +86,7 @@
   {
     "question": "¿Qué evento de entretenimiento en vivo ocurre en Burger Bar a mitad de semana?",
     "options": ["Karaoke", "Stand-up comedy", "Música en vivo", "Quiz night"],
-    "correct": 1,
+    "correct": 0,
     "hint": "Te puedes subir a cantar con banda en vivo",
     "explanation": "Los miércoles en Diagonal tenemos Karaoke."
   },
