@@ -24,7 +24,7 @@
     "question": "¿Cuántas sucursales tiene Burger Bar en el Gran Concepción?",
     "options": ["1", "2", "3", "4"],
     "correct": 1,
-    "hint": "Una en San Pedro y una en Diagonal",
+    "hint": "1+1",
     "explanation": "Burger Bar tiene 2 sucursales: San Pedro de la Paz (Los Canelos 100) y Diagonal Pedro Aguirre Cerda en Concepción."
   },
   {
@@ -46,7 +46,7 @@
     "options": ["Lunes y jueves", "Martes y miércoles", "Viernes y sábado", "Sábado y domingo"],
     "correct": 1,
     "hint": "Son dos días consecutivos a mitad de semana",
-    "explanation": "Los martes y miércoles puedes disfrutar de stand-up comedy en vivo en los locales de Burger Bar."
+    "explanation": "Los martes en Diagonal y miércoles en san pedro desde las 20:00hrs."
   },
   {
     "question": "¿Qué otro producto del menú destaca además de las hamburguesas?",
@@ -56,18 +56,18 @@
     "explanation": "Además de hamburguesas, Burger Bar ofrece deliciosas pizzas de elaboración artesanal con un toque único."
   },
   {
-    "question": "¿En qué local de Burger Bar hay música en vivo y karaoke?",
+    "question": "¿En qué local de Burger Bar está el Burger Stage?",
     "options": ["San Pedro", "Diagonal", "Ambos locales", "Ninguno"],
     "correct": 1,
     "hint": "Es el local con ambiente más rockero",
-    "explanation": "El local de Diagonal Pedro Aguirre Cerda es conocido por su ambiente rockero con música en vivo y karaoke."
+    "explanation": "Jueves, Viernes y Sábado música en vivo."
   },
   {
     "question": "¿Qué deporte es el más visto en Burger Bar?",
     "options": ["Básquetbol", "Fútbol", "Rugby", "Tenis"],
     "correct": 1,
     "hint": "Es el deporte más popular en Chile",
-    "explanation": "El fútbol es el más visto en Burger Bar, aunque también hay tenis, básquetbol, rugby, UFC y más."
+    "explanation": "El fútbol es el más visto en Burger Bar, aunque también puedes ver tenis, básquetbol, rugby, UFC y más."
   },
   {
     "question": "¿En qué ciudad nació Burger Bar?",
@@ -87,8 +87,8 @@
     "question": "¿Qué evento de entretenimiento en vivo ocurre en Burger Bar a mitad de semana?",
     "options": ["Karaoke", "Stand-up comedy", "Música en vivo", "Quiz night"],
     "correct": 1,
-    "hint": "Es un show de humor con comediantes",
-    "explanation": "Los martes y miércoles Burger Bar presenta stand-up comedy en vivo en sus locales."
+    "hint": "Te puedes subir a cantar con banda en vivo",
+    "explanation": "Los miércoles en Diagonal tenemos Karaoke."
   },
   {
     "question": "¿En qué dirección está el local de San Pedro de la Paz?",
