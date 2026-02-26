@@ -98,10 +98,10 @@
     "explanation": "El local de San Pedro de la Paz está en Los Canelos 100."
   },
   {
-    "question": "¿Qué tipo de origen tiene el nombre 'Shamrock'?",
-    "options": ["Alemán", "Belga", "Irlandés", "Escocés"],
-    "correct": 2,
-    "hint": "El trébol es el símbolo de ese país",
-    "explanation": "Shamrock es una palabra irlandesa que significa trébol, símbolo de la cultura irlandesa."
+    "question": "¿Cómo se llama el duende de BurgerBar?",
+    "options": ["Poddy", "Paddy", "Pepe", "Shamrock"],
+    "correct": 1,
+    "hint": "Empieza con P",
+    "explanation": "Paddy es nuestro duende Rockero."
   }
 ]
